@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ferrah-hichem and i'm a student in Machine Learning and Data Science at the University of Paris
 - 👀 I’m interested in internships
-- 🌱 I’m currently learning spark, hadoop and TensorFlow
+- 🌱 I’m currently learning spark, hadoo, TensorFlow and Django
 - 💞️ I’m looking to collaborate on any kind of project with Python
 - 📫 How to reach me: LinkedIn
 
